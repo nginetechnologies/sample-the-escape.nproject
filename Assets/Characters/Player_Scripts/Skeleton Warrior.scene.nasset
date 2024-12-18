@@ -145,12 +145,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+                                "scene": "0193dab9-9e53-7091-272b-8ee4d19181d1"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tony Scene"
+                                    "name": "Warrior Scene"
                                 }
                             ]
                         }
@@ -192,6 +192,6 @@
     },
     "thumbnailGuid": "3ef9eede-047b-44a5-999f-8bbf06ad9921",
     "dependencies": [
-        "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+        "0193dab9-9e53-7091-272b-8ee4d19181d1"
     ]
 }

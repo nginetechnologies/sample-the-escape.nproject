@@ -15,5 +15,6 @@
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "0193dab9-9e62-70be-b4cc-c2c1e472838f"
-    ]
+    ],
+    "instanceGuid": "0193dad3-bedd-799c-029a-10fafa65d568"
 }
