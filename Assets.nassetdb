@@ -6032,6 +6032,105 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "0193dab2-04ca-7a97-0903-81dbc63f75bc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Skeletons_D.tex.nasset"
+    },
+    "0193dab9-9e40-77a0-d9bc-a0ac42fc132f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193dab9-9e53-7091-272b-8ee4d19181d1"
+        ]
+    },
+    "0193dab9-9e53-7091-272b-8ee4d19181d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193dab9-9e53-73a0-b9ec-69b37cdd31a9",
+            "0193dab9-9e53-74b0-d536-76b9371031c3",
+            "0193dab9-9e62-7489-9207-549daa390099",
+            "0193dab9-9e62-7b91-9519-7b9859a70037",
+            "0193dab9-9e62-708c-1689-f28847e01e12",
+            "0193dab9-9e62-77ae-d1be-827cda7fc296",
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f",
+            "d7623906-ae20-4de9-b891-01d6bc37546c",
+            "48fbbc63-d303-4dad-bbac-fd31d274bc24",
+            "ed5d3295-f810-4fa7-9fba-bef29be070ff",
+            "7ef028d7-50d1-4abf-a5f3-ba3903f35147",
+            "76345635-5700-4d4f-adf5-74c30045b37d",
+            "c0476b71-dada-4e12-987b-bf3ef1b6994d"
+        ]
+    },
+    "0193dab9-9e53-73a0-b9ec-69b37cdd31a9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Skeleton.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193dab2-04ca-7a97-0903-81dbc63f75bc"
+        ]
+    },
+    "0193dab9-9e53-74b0-d536-76b9371031c3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Skeleton Warrior skeleton.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193dab9-9e53-73a0-b9ec-69b37cdd31a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193dab9-9e62-708c-1689-f28847e01e12": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Skeleton Warrior Glow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193dab9-9e62-7b91-9519-7b9859a70037",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193dab9-9e62-70be-b4cc-c2c1e472838f": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "0193dab9-9e62-7489-9207-549daa390099": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Skeleton Warrior skeleton.meshskin.nasset",
+        "dependencies": [
+            "0193dab9-9e53-74b0-d536-76b9371031c3",
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f",
+            "0193dab9-9e53-73a0-b9ec-69b37cdd31a9"
+        ]
+    },
+    "0193dab9-9e62-77ae-d1be-827cda7fc296": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Skeleton_Warrior.scene.nasset/Skeleton Warrior.mesh.nasset/Skeleton Warrior Glow.meshskin.nasset",
+        "dependencies": [
+            "0193dab9-9e62-708c-1689-f28847e01e12",
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f",
+            "0193dab9-9e62-7b91-9519-7b9859a70037"
+        ]
+    },
+    "0193dab9-9e62-7b91-9519-7b9859a70037": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Glow.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "375fea06-ac7d-4e0e-848d-bcdb6bbc1e4e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6049,6 +6148,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Thumbnails/Skeleton_Minion.scene.nasset.tex.nasset"
     },
+    "48fbbc63-d303-4dad-bbac-fd31d274bc24": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Walking 1.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+        ]
+    },
     "68992401-4377-4b74-8a75-56e0ac15e3dc": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6060,6 +6167,22 @@
         ],
         "dependencies": [
             "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+        ]
+    },
+    "76345635-5700-4d4f-adf5-74c30045b37d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Jump Loop.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+        ]
+    },
+    "7ef028d7-50d1-4abf-a5f3-ba3903f35147": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Jump Start.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
         ]
     },
     "80d7deb9-e4dc-42ef-b6f7-c2ef37582e7b": {
@@ -6114,9 +6237,33 @@
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
         }
     },
+    "c0476b71-dada-4e12-987b-bf3ef1b6994d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Jump End.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+        ]
+    },
+    "d7623906-ae20-4de9-b891-01d6bc37546c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Idle.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+        ]
+    },
     "ec34856f-d41b-4cd6-9b32-30f68b967e47": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Thumbnails/Skeleton_Warrior.scene.nasset.tex.nasset"
+    },
+    "ed5d3295-f810-4fa7-9fba-bef29be070ff": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Skeleton Run 1.anim.nasset",
+        "dependencies": [
+            "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+        ]
     },
     "guid": "0193d826-c3ea-7e95-744b-f045d1dcfa6c",
     "imported_assets": [

@@ -1,0 +1,120 @@
+{
+    "guid": "0193dab9-9e53-7091-272b-8ee4d19181d1",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0193dab9-9e53-78ab-1862-213c311e11c2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0193dab9-9e53-7ab5-6ac4-07417862d401",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Warrior Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "0193dab9-9e62-7bad-8929-38d9db2d17af",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "d7623906-ae20-4de9-b891-01d6bc37546c",
+                                "48fbbc63-d303-4dad-bbac-fd31d274bc24",
+                                "ed5d3295-f810-4fa7-9fba-bef29be070ff"
+                            ],
+                            "jump_animations": [
+                                "7ef028d7-50d1-4abf-a5f3-ba3903f35147",
+                                "76345635-5700-4d4f-adf5-74c30045b37d",
+                                "c0476b71-dada-4e12-987b-bf3ef1b6994d"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0193dab9-9e62-78bd-fd49-dc24bf44bd19",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Skeleton Warrior skeleton"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0193dab9-9e53-74b0-d536-76b9371031c3",
+                                "material_instance": "0193dab9-9e53-73a0-b9ec-69b37cdd31a9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0193dab9-9e62-7489-9207-549daa390099"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0193dab9-9e62-7a94-0a69-5bb6657c3cff",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Skeleton Warrior Glow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0193dab9-9e62-708c-1689-f28847e01e12",
+                                "material_instance": "0193dab9-9e62-7b91-9519-7b9859a70037"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0193dab9-9e62-77ae-d1be-827cda7fc296"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "0193dab9-9e62-70be-b4cc-c2c1e472838f"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0193dab9-9e53-7091-272b-8ee4d19181d1"
+    },
+    "dependencies": [
+        "0193dab9-9e53-73a0-b9ec-69b37cdd31a9",
+        "0193dab9-9e53-74b0-d536-76b9371031c3",
+        "0193dab9-9e62-7489-9207-549daa390099",
+        "0193dab9-9e62-7b91-9519-7b9859a70037",
+        "0193dab9-9e62-708c-1689-f28847e01e12",
+        "0193dab9-9e62-77ae-d1be-827cda7fc296",
+        "0193dab9-9e62-70be-b4cc-c2c1e472838f",
+        "d7623906-ae20-4de9-b891-01d6bc37546c",
+        "48fbbc63-d303-4dad-bbac-fd31d274bc24",
+        "ed5d3295-f810-4fa7-9fba-bef29be070ff",
+        "7ef028d7-50d1-4abf-a5f3-ba3903f35147",
+        "76345635-5700-4d4f-adf5-74c30045b37d",
+        "c0476b71-dada-4e12-987b-bf3ef1b6994d"
+    ]
+}
