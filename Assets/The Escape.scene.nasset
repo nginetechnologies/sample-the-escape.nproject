@@ -12,45 +12,29 @@
     "children": [
         {
             "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
-            "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
+            "instanceGuid": "f9a9f4ff-d995-429a-bd68-fe8821f3c0d8",
             "data_components": [
                 {
-                    "typeGuid": "de693274-60b1-4973-a474-9bfd21432dd4"
-                },
-                {
-                    "typeGuid": "c7fc013b-c806-486b-a3a3-30285721d9b9"
-                },
-                {
-                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
                 },
                 {
                     "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
-                    "asset": "9fc4ce8c-8bdc-4778-843d-cc0512c5fc86"
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
-                },
-                {
-                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
-                },
-                {
-                    "typeGuid": "2ccaab2c-f671-481e-b0e3-a95106c62da6"
-                },
-                {
-                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
-                },
-                {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
                 },
                 {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
                 },
                 {
-                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
                 },
                 {
-                    "typeGuid": "8963059c-1a83-4475-88f3-f094f1a2c3e2"
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
                 }
             ]
         },
